@@ -1,0 +1,10 @@
+.containers {
+    max-width: 960px;
+    margin: 0px auto;
+}
+
+.con {
+    max-width: 1185px !important;
+    justify-content: space-between;
+    margin: 0px auto;
+}
